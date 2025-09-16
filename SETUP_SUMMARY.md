@@ -12,6 +12,8 @@
 - glow (markdown viewer)
 - music-presence (Discord presence)
 - sudo-touchid (Touch ID for sudo, manual reapply if needed)
+- lazydocker (TUI for Docker)
+- act (run GitHub Actions locally)
 
 ## Runtime Versions (via mise)
 - Node.js: LTS
@@ -21,4 +23,11 @@
 - mise activate
 - direnv hook
 - starship init
+
+## Dotfiles managed
+- .zshrc
+- .zprofile
+- .gitconfig
+- .config/starship.toml
+- .config/mise/config.toml (optional)
 
