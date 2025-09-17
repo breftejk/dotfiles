@@ -14,6 +14,7 @@
 - sudo-touchid (Touch ID for sudo, manual reapply if needed)
 - lazydocker (TUI for Docker)
 - act (run GitHub Actions locally)
+- mutool (pdf tools)
 
 ## Runtime Versions (via mise)
 - Node.js: LTS
